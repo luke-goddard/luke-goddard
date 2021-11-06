@@ -1,8 +1,17 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-I'm Luke Goddard and this is my personal GH account, I mostly develop in Python 🐍, but love nothing more than to learn a new programming language when I have a weekend free. 
+I'm Luke Goddard and this is my new personal GH account, I mostly develop in Python 🐍, but love nothing more than to learn a new programming language when I have a weekend free. 
 
 I've got a background in Cyber Security, with a focus on web pentesting, binary exploitation and fuzzing.
+
+### Quick Links 
+
+Most of my repo's are private but over the past year I've worked on the following OSS. 
+
+- https://github.com/luke-goddard/enumy
+- https://github.com/luke-goddard/skid
+- https://github.com/luke-goddard/LFI-Fuzzer-Burp-Suite
+- https://github.com/luke-goddard/webzilla
 
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luke-goddard&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=material-palenight" />

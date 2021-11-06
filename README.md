@@ -2,6 +2,8 @@
 
 I'm Luke Goddard and this is my personal GH account, I mostly develop in Python 🐍, but love nothing more than to learn a new programming language when I have a weekend free. 
 
+I've got a background in Cyber Security, with a focus on web pentesting, binary exploitation and fuzzing.
+
 ### Stats Overview : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luke-goddard&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=material-palenight" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=luke-goddard&theme=dracula&no-bg=true&row=1"/>
